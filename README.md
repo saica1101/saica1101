@@ -1,9 +1,3 @@
-# [saica94](https://github.com/saica94)
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saica94&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=saica94&theme=onedark&show_icons=ture" />
-</p>
-
 # [saica1101](https://github.com/saica1101)
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saica1101&layout=compact&show_icons=true&theme=onedark" />
