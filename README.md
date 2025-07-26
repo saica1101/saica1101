@@ -48,10 +48,10 @@ ___
         - 所有関係の確認 `has`
             - 用途：何かが特定の属性や要素を持っているかを確認する
             - 例：`hasItem`, `hasErrors`, `hasAccess`
-        - 行動の推奨
+        - 行動の推奨 `should`
             - 用途：何かのアクションや動作を行うべきかを示す
             - 例：`shouldUpdate`, `shouldRetry`, `shouldAlert`
-        - 可能性の確認
+        - 可能性の確認 `can`
             - 用途：何かのアクションや動作が可能かどうか確認する
             - 例：`canSubmit`, `canEdit`, `canAdvance`
 ## アーキテクチャとデザインパターン
